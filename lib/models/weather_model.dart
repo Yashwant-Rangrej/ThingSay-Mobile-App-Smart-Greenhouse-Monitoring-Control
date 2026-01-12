@@ -8,7 +8,7 @@ class WeatherModel {
   final String windSpeed;
   final String windDirection;
   final String windLevel;
-
+      
   WeatherModel({
     required this.date,   
     required this.time,
